@@ -1,2 +1,19 @@
-body {
+h1 {
+  text-align: center;
+  color: red;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  color: green;
+  font-family: Tahoma;
+}
+ol {
+  font-style: italic;
+}
+ul {
+  font-style: bold;
+  font-size: 20px;
 }
